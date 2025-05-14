@@ -19,7 +19,7 @@ To analyze Superstore sales data and visually communicate key business insights 
 | Sales Over Time         | Line Chart   | `Order Date`, `Sales`                       |
 | Sales by Region         | Map / Pie    | `Region`, `Sales`                           |
 | Profit by Segment       | Column Chart | `Segment`, `Profit`                         |
-| Top 10 Products         | Bar Chart    | `Product Name`, `Sales` (sorted descending) |
+| Top 10 Products         | Bar Chart    | `Product Name`, `Sales`                     |
 
 ---
 
