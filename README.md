@@ -57,13 +57,6 @@ To analyze Superstore sales data and visually communicate key business insights 
 
 ---
 
-## 📁 Deliverables
-
-- `TASK2.pbix` – Power BI dashboard file
-- `README.md` – This summary
-- Screenshots of key dashboard visuals (if required for PDF)
-
----
 
 ## 📎 Outcome
 
